@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blended Day 1 Textbox ke list", "Blended Day 1 Textbox ke list\Blended Day 1 Textbox ke list.csproj", "{CF554D0F-666B-47E1-A346-5F899D0031B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF554D0F-666B-47E1-A346-5F899D0031B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF554D0F-666B-47E1-A346-5F899D0031B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF554D0F-666B-47E1-A346-5F899D0031B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF554D0F-666B-47E1-A346-5F899D0031B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4B35B98-77D5-40DF-B2D4-9F3775A2391F}
+	EndGlobalSection
+EndGlobal
